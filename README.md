@@ -8,5 +8,5 @@
 Realizar uma análise exploratória dos dados de embarcação do Golfo da Guiné, buscando entender padrões que impactam nas Performances destes.
 
 **Pode acessar o link abaixo  para acessar o projeto completo:**
- - [**Projeto no Google Colab**](https://colab.research.google.com/drive/1GFJ7W6KFCB7njtZA8XiRh-0AnKoxMZeD#scrollTo=Dn9zhUEnKsNE)
+ - [**Projeto no Google Colab**](https://github.com/ArturBensch/Projeto-ShipPerformance/blob/main/Projeto_Ship_Performance.ipynb)
 
